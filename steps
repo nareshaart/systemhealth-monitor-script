@@ -1,0 +1,13 @@
+step1:
+create a file and name it monitor.sh
+step2:
+open the file with the Vim editor vi monitor.sh
+step3:
+paste the script then to make this script executable by running this command
+chmod +x monitor.sh
+step4:
+testing and deployment to run this script
+./monitor.sh
+step5:
+to run this script in the background using the “nohup” command
+nohup ./monitor.sh &
